@@ -16,5 +16,10 @@
     "url": "https://github.com/zegilooo/node_together/issues"
   },
   "homepage": "https://github.com/zegilooo/node_together#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.13.4",
+    "motivations": "^1.0.10",
+    "pick-one": "^1.0.0"
+  }
 }
