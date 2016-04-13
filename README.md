@@ -1,3 +1,4 @@
 # node_together
 
-some changes
+Some new changes
+Let's update with description of project
